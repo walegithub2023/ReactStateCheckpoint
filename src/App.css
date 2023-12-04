@@ -1,3 +1,229 @@
+/*style for container1*/
+#container1{
+  padding-right:0px;
+  border-right:1px solid grey;
+ }
+ 
+ /*style for Row1Col1*/
+ #Row1Col1{
+   border-left:1px solid grey;
+   height: 750px;
+   padding-right:0px;
+   border-right:1px solid grey;
+   border-bottom:1px solid grey;
+ }
+ 
+ #logo1{
+ width:160px;
+ height:150px;
+ }
+ 
+ #div1{
+   border-left:1px solid grey;
+   padding:20px;
+ }
+ 
+ #div2{
+   border-left:1px solid grey;
+   padding:20px;
+   padding-left:30px;
+   text-align: left;
+   background-color:blueviolet;
+   color:white;
+ }
+ 
+ 
+ #div3{
+   border:1px solid grey;
+   padding:20px;
+   padding-left:30px;
+   text-align: left;
+   border-right:0px;
+ }
+ 
+ 
+ /*style for div 1 to 12*/
+ #div4, #div5, #div6, #div7, #div8, #div9, #div10, #div11, #div12{
+   border:1px solid grey;
+   border-right:0px;
+   padding-left:30px;
+   padding-top:6px;
+   padding-bottom:6px;
+   text-align: left;
+ }
+ 
+ #logo2{
+   width:100px;
+   height:90px;
+   
+   }
+ 
+ 
+ 
+ 
+ /*style for Row1Col2*/
+ #Row1Col2{
+ 
+   text-align: left;
+   padding-right:0px;
+   margin-right:0px;
+ }
+ 
+ 
+ /*style for Row1Col2Row1*/
+ #Row1Col2Row1{
+   width:100%;
+   padding:25px;
+   background-color:red;
+   color:white;
+   font-size:190%;
+   margin-right:0px;
+   
+ }
+ 
+ /*style for Row1Col2Row2*/
+ #Row1Col2Row2{
+ width:99%;
+ margin-top:20px;
+ text-align: center;
+ }
+
+
+ #profile{
+  text-align: center;
+ }
+ 
+ #Row1Col2Row2col1{
+ text-align:left;
+ }
+ 
+ #div13{
+ 
+   width:50px;
+   height:40px;
+   border:1px solid grey;
+   border-top:1px solid white;
+   border-left:1px solid white;
+   border-bottom: 1px solid white;
+   text-align: left;
+   margin-left:-40px;
+   border-radius: 50px;
+   margin-top:-5px;
+ }
+ 
+ 
+ #Row1Col2Row2col2{
+ text-align:center;
+ }
+ 
+ 
+ #div14{
+   width:500px;
+   border:1px solid grey;
+   border-top:0px;
+   margin:0px auto;
+ }
+ 
+ 
+ 
+ 
+ 
+ #div15{
+   border:1px solid grey;
+   height:50px;
+   border-top:0px;
+   width:200px;
+   margin:0px auto;
+ 
+   
+ }
+ 
+ #Row1Col2Row2col3{
+ text-align:right;
+ padding-right:0px;
+ border-right:1px solid grey;
+ }
+ 
+ 
+ 
+ #div16{
+   width:60px;
+   height:50px;
+ border:1px solid grey;
+ border-radius:50px;
+ border-top:0px;
+ margin:0px auto;
+ margin-top:-20px;
+ }
+ 
+ #div17{
+   border:1px solid grey;
+   border-top:1px solid white;
+   border-right:1px solid white;
+   border-bottom:1px solid white;
+   width:60px;
+   height:50px;
+   border-radius:100%;
+   text-align: right;
+   margin-left:75px;
+   margin-top:-8px;
+ }
+ 
+ 
+ #Row1Col2Row2col4{
+   text-align:right;
+ 
+   border-left:1px solid grey;
+   margin-left:30px;
+ }
+ 
+ 
+ 
+ 
+ /*style for div 18 to 27*/
+ #div18, #div19, #div20, #div21, #div22, #div23, #div24, #div25, #div26, #div27{
+  border:1px solid grey;
+ }
+
+
+ #div1a{
+    border:1px solid rgb(174, 172, 172);
+    border-radius:3px;
+ }
+
+
+
+ 
+ 
+ /*style for container footer*/
+ #containerFooter{
+   height: 130px;
+   background-color:blueviolet;
+   color:white;
+   margin-top:15px;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ /*old styles*/
+
 .App {
   text-align: center;
 }
